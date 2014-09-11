@@ -1,7 +1,7 @@
 package image
 
 import (
-	"github.com/Pursuit92/openstack/core"
+	"github.com/Pursuit92/openstack-core"
 )
 
 type Image struct {
