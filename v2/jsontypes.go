@@ -1,4 +1,4 @@
-package image
+package glance
 
 import (
 	"github.com/Pursuit92/openstack-core"
